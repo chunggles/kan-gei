@@ -1,0 +1,12 @@
+.users-main-content { display: flex; gap: 28px; align-items: flex-start; width: 100%; }
+.users-form-section { width: 320px; flex-shrink: 0; }
+.users-list-section { flex: 1; min-width: 0; }
+.form-group { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+.form-group label { font-weight: 600; color: #1A1A1A; font-size: 13px; }
+.form-actions { margin-top: 8px; }
+.action-buttons { display: flex; gap: 6px; }
+
+@media (max-width: 900px) {
+    .users-main-content { flex-direction: column; }
+    .users-form-section { width: 100%; }
+}

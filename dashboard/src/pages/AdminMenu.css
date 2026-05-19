@@ -1,0 +1,18 @@
+.menu-main-content {
+    display: flex;
+    gap: 28px;
+    align-items: flex-start;
+    width: 100%;
+}
+.menu-form-section { width: 340px; flex-shrink: 0; }
+.menu-list-section { flex: 1; min-width: 0; }
+.menu-table-wrapper { overflow-x: auto; }
+.form-group { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+.form-group label { font-weight: 600; color: #1A1A1A; font-size: 13px; }
+.form-actions { margin-top: 8px; }
+.action-buttons { display: flex; gap: 6px; flex-wrap: nowrap; }
+
+@media (max-width: 900px) {
+    .menu-main-content { flex-direction: column; }
+    .menu-form-section { width: 100%; }
+}

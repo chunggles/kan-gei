@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Somen with Karaage",
+    "description": "a popular Japanese meal pairing that combines thin, chilled wheat noodles (somen) with crispy, savory Japanese fried chicken (karaage)",
+    "price": "250",
+    "category": "Combo Meals",
+    "available": "true",
+    "photo": "/uploads/dish-1779023565795-641691179.jpg"
+  },
+  {
+    "name": "Chicken Katsu Burger",
+    "description": "a Japanese-Western fusion sandwich featuring a crispy, panko-breaded and deep-fried chicken cutlet served in a burger bun",
+    "price": "120",
+    "category": "Burgers",
+    "available": "true",
+    "photo": "/uploads/dish-1779023613716-292991582.jpg"
+  },
+  {
+    "name": "Somen",
+    "description": "very thin, white Japanese noodles made of wheat flour",
+    "price": "180",
+    "category": "Cold Noodles",
+    "available": "true",
+    "photo": "/uploads/dish-1779023645145-336331016.jpg"
+  },
+  {
+    "name": "Mitarashi Dango",
+    "description": "a classic Japanese street snack featuring small, chewy rice dumplings (dango) skewered on a bamboo stick, grilled to add a hint of char, and generously coated in a sticky, sweet-savory soy sauce glaze",
+    "price": "40",
+    "category": "Dango",
+    "available": "true",
+    "photo": "/uploads/dish-1779023678451-322449852.jpg"
+  },
+  {
+    "name": "Hokkaido",
+    "description": "a luxurious, creamy Japanese beverage that combines brewed black tea with rich, sweet dairy",
+    "price": "80",
+    "category": "Milk Tea",
+    "available": "true",
+    "photo": "/uploads/dish-1779023707743-805011084.jpg"
+  },
+  {
+    "name": "Coke",
+    "description": "classic coca cola in a glass",
+    "price": "25",
+    "category": "Drinks",
+    "available": "true",
+    "photo": "/uploads/dish-1779023775108-681297302.jpg"
+  },
+  {
+    "name": "fdsfds",
+    "description": "fdsfsd",
+    "price": "4",
+    "category": "Rice Bowls",
+    "available": "true",
+    "photo": "/uploads/dish-1779180867109-319445665.jpg"
+  }
+]
